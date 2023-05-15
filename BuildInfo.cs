@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace bonelab_template
+﻿namespace bonelab_template
 {
     internal partial class Main
     {
